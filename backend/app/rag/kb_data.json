@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rbi_001",
+    "source": "RBI (Reserve Bank of India)",
+    "category": "KYC Scam",
+    "title": "KYC Update / Bank Account Suspension Scams",
+    "content": "RBI cautions bank customers against sharing credentials like usernames, passwords, card details, PINs, OTPs. Banks will never ask for sensitive credentials via SMS or call. Any SMS threatening that your account or debit card will be blocked if you do not update KYC immediately is a phishing attempt. Always contact your official bank branch or official customer service number.",
+    "keywords": ["kyc", "block", "suspend", "bank", "otp", "re-kyc", "sbi", "hdfc", "icici"]
+  },
+  {
+    "id": "npci_001",
+    "source": "NPCI (National Payments Corporation of India)",
+    "category": "UPI QR Code & PIN Scam",
+    "title": "UPI Payment Safety & QR Code Scams",
+    "content": "NPCI states that a UPI PIN is only required to send/transfer money, NEVER to receive money. If a sender asks you to scan a QR code or enter your UPI PIN to receive a prize, cashback, or payment, it is 100% fraudulent. Do not scan any QR codes received via WhatsApp or SMS to receive funds. Check the payee name displayed before completing any UPI transaction.",
+    "keywords": ["upi", "pin", "qr code", "receive", "cashback", "scan", "gpay", "phonepe", "paytm"]
+  },
+  {
+    "id": "cert_001",
+    "source": "CERT-In (Indian Computer Emergency Response Team)",
+    "category": "Phishing & Fake URLs",
+    "title": "Phishing Email and Malicious URL Advisory",
+    "content": "CERT-In advises users to check the domain names of websites before entering login details. Look for spelling variations (typosquatting) like 'g00gle.com' or 'secure-bank-login.net' instead of official domains. Phishing links often arrive via SMS (smishing) or emails containing urgent threats, high rewards, or lottery wins. Use a web reputational service, check HTTPS status, and avoid clicking shortened links (bit.ly, tinyurl).",
+    "keywords": ["url", "link", "website", "phishing", "domain", "http", "secure", "shortener", "smishing"]
+  },
+  {
+    "id": "rbi_002",
+    "source": "RBI (Reserve Bank of India)",
+    "category": "Job & Investment Fraud",
+    "title": "Fake Part-Time Job and High-Return Investment Scams",
+    "content": "RBI warns against schemes promising high returns in a short duration (e.g., doubling money, daily high payouts) and part-time job offers requiring payment for registration or pre-buying products. Cybercriminals offer simple tasks like liking videos, reviewing hotels, or crypto trading, and request victims to deposit funds to 'unlock' higher earnings. These are Ponzi schemes and investment frauds.",
+    "keywords": ["job", "part-time", "investment", "salary", "telegram", "like video", "review", "crypto", "profit", "deposit"]
+  },
+  {
+    "id": "cert_002",
+    "source": "CERT-In (Indian Computer Emergency Response Team)",
+    "category": "Deepfake & Voice Cloning Scams",
+    "title": "AI Deepfake Voice Cloning and Video Call Scams",
+    "content": "CERT-In cautions users against urgent requests for money from friends or relatives via voice calls or social media videos. Scammers use AI tools to clone the voice of a family member and call asserting they are in an emergency (accident, arrest, hospital). Always verify the emergency by calling the relative directly on their known phone number or asking a private question only they would know.",
+    "keywords": ["voice", "deepfake", "call", "audio", "emergency", "relative", "money", "clone", "whatsapp", "police", "arrest"]
+  },
+  {
+    "id": "npci_002",
+    "source": "NPCI (National Payments Corporation of India)",
+    "category": "UPI Collect Request Fraud",
+    "title": "UPI Collect Request Exploitation",
+    "content": "NPCI alerts users regarding 'Collect Requests' on UPI apps. Fraudsters send request notifications pretending to be support agents or buyers from OLX/marketplaces. Approving a collect request and entering your PIN will instantly deduct money from your account. Immediately decline unauthorized collect requests and block the sender in your UPI app.",
+    "keywords": ["collect request", "request money", "olx", "approve", "deduct", "decline", "pay", "buyer", "seller"]
+  },
+  {
+    "id": "cert_003",
+    "source": "CERT-In (Indian Computer Emergency Response Team)",
+    "category": "QR Code Fraud",
+    "title": "QR Code Tampering and Fraudulent QR Codes",
+    "content": "CERT-In cautions consumers scanning QR codes on public posters, pamphlets, or receipt counters. Fraudsters paste sticker QR codes over legitimate merchant QR codes to redirect payments to their accounts. When scanning, verify the merchant's display name matches the physical store before typing in payment values. Avoid scanning random codes promising free Wi-Fi or vouchers.",
+    "keywords": ["sticker", "tamper", "merchant", "redirect", "receipt", "public", "shop", "payee"]
+  }
+]
